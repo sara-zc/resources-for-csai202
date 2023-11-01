@@ -1,9 +1,3 @@
-<style>
-    img{
-        width: 60%;
-    }
-</style>
-
 # Guide to Resources for CSAI202
 
 A list of useful resources for learning razor pages, ordered by personal preference and organized into categories. Feel free to suggest more resources by creating a PR.
