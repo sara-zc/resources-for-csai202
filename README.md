@@ -17,7 +17,7 @@ A very good documentation and explanation website for razor pages concepts and p
 1. 📺 [Microsoft Video Tutorials](https://learn.microsoft.com/en-us/aspnet/web-pages/videos/aspnet-razor-pages/)
 ![microsoft razor pages video tutorials](images/microsoft_video_tutorials.jpg)
 
-1. 📖 [Complete C# Tutorial Website](images/https://www.completecsharptutorial.com/)
+1. 📖 [Complete C# Tutorial Website](https://www.completecsharptutorial.com/)
     
     A Free Tutorial Website that teaches you C# Programming, ASP.NET, ASP.NET Core, MVC, Entity Framework, Razor Syntax, ADO.NET, SQL and many more components of DotNet Framework.
 ![Complete C# Tutorial](images/completecsharptutorial.jpg)
